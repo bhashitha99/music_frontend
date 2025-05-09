@@ -1,0 +1,16 @@
+.container{
+    width: 80%;
+}
+.home-hedding{
+    size: 1.5rem;
+}
+.home-form{
+    margin-top: 50px;
+    width: 80%;
+}
+.home-chart{
+    margin-top: 50px;
+    /* align-items: center;
+    display: flex;
+    justify-content: center; */
+}
